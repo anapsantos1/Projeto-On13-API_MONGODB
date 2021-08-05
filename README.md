@@ -22,7 +22,7 @@ Prof.: Vanessa Jansen
 
 - Criado um banco de dados PETS e uma collections Agendamentos:
 
-![image-20210730210311594](C:\Users\Paula\AppData\Roaming\Typora\typora-user-images\image-20210730210311594.png)
+![image-20210730210311594](https://github.com/anapsantos1/Projeto-On13-API_MONGODB/blob/main/image/ScreenHunter%2092.png)
 
 - Efetuada a inserção dos dados:
 
