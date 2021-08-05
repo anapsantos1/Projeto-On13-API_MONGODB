@@ -1,0 +1,63 @@
+db.pets.insertMany([
+    {
+        "id": "1",
+        "nomeFantasia": "Pet Shop 1",
+        "endereco": "Avenida Paulista, 1273 - São Paulo",
+        "telefone": "11 12345-6789",
+        "atende": [
+            "cães",
+            "gatos"
+        ]
+    },
+    {
+        "id": "2",
+        "nomeFantasia": "Pet Shop 2",
+        "endereco": "Niterói, 1273 - Rio de Janeiro",
+        "telefone": "11 98765-4321",
+        "atende": [
+            "cães",
+            "papagaio"
+        ]
+    },
+    {
+        "id": "3",
+        "nomeFantasia": "Pet Shop 3",
+        "endereco": "R. Cavalo Marinho, 1655 - Jardim Adelfiore, São Paulo - SP",
+        "telefone": "11 3918-8516",
+        "atende": [
+            "cães",
+            "aves"
+        ]
+    },
+    {
+        "id": "4",
+        "nomeFantasia": "Pet Shop 4",
+        "endereco": "R. Israel Pinheiro, 4000 - Lourdes, Gov. Valadares - MG",
+        "telefone": "33 3272-3929",
+        "atende": [
+            "cães",
+            "cavalos",
+            "gatos"
+        ]
+    },
+    {
+        "id": "5",
+        "nomeFantasia": "Pet Shop 5",
+        "endereco": " R. Rio Grande do Sul, 881 - Santo Antônio, São Caetano do Sul - SP",
+        "telefone": "11 4226-5276",
+        "atende": [
+            "cães",
+            "roedores"
+        ]
+    },
+    {
+        "id": "6",
+        "nomeFantasia": "Pet Shop 6",
+        "endereco": "Av. Dom João VI, 108 - Brotas, Salvador - BA",
+        "telefone": "71 99381-3391",
+        "atende": [
+            "cães",
+            "gatos"
+        ]
+    }
+])
